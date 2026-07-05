@@ -1,5 +1,8 @@
 # 🏦 Banking Analytics Dashboard | Python + Power BI
 
+<img width="664" height="455" alt="Screenshot 2026-07-05 180720" src="https://github.com/user-attachments/assets/c3cc3d13-9f26-452b-b57b-a5f3bab5f6b6" />
+
+
 A comprehensive Banking Analytics Dashboard built using **Power BI**, **Python**, and **DAX** to analyze customer banking behavior, loans, deposits, credit cards, and business lending. The project includes complete **Exploratory Data Analysis (EDA)** in Python followed by an interactive Power BI dashboard for business decision-making.
 
 ---
@@ -295,13 +298,15 @@ Examples include:
 
 ## Loan Analysis
 
-> 
+> <img width="631" height="357" alt="Screenshot 2026-07-05 182035" src="https://github.com/user-attachments/assets/25ed74c2-6447-4c11-864e-b80131cdb1c9" />
+
 
 ---
 
 ## Deposit Analysis
 
-> *(Add Deposit Analysis Screenshot Here)*
+> <img width="634" height="361" alt="Screenshot 2026-07-05 182128" src="https://github.com/user-attachments/assets/39256751-599c-4e06-aea9-fa72dbb2f0c8" />
+
 
 ---
 
@@ -312,7 +317,7 @@ Examples include:
 - Numerical Analysis
 - Correlation Heatmap
 
-> *(Add Python EDA Screenshots Here)*
+
 
 ---
 
