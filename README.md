@@ -160,7 +160,7 @@ The report consists of multiple interactive pages.
 
 ## 🏠 Home Dashboard
 
-![Home Dashboard](Images/Home_Dashboard.png)
+![Home Dashboard](Images/Home_dashboard.png)
 
 ### KPIs
 
